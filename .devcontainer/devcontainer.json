@@ -1,5 +1,5 @@
 {
-    "name": "Python 3.9.16 Freelance",
+    "name": "Python 3.9.16",
     "build": {
         "dockerfile": "Dockerfile",
         "context": ".."
@@ -9,5 +9,6 @@
     },
     "extensions": [
         "ms-python.python"
-    ]
+    ],
+    "forwardPorts": [8888]
 }
