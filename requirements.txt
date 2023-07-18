@@ -10,3 +10,6 @@ missingno==0.5.2
 imbalanced-learn==0.10.1
 bayesian-optimization==1.4.3
 optuna==3.2.0
+ipywidgets==7.7.1
+matplotlib==3.7.0
+tqdm==4.64.0
